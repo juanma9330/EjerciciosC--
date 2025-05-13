@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\ejercicios c\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB47C7FF-EE79-43CB-BA07-6A47EDAFC35E}|ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.vcxproj|D:\\c\u002B\u002B\\ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB47C7FF-EE79-43CB-BA07-6A47EDAFC35E}|ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.vcxproj|solutionrelative:ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicios c\u002B\u002B.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.cpp",
+              "RelativeToolTip": "ejercicios c\u002B\u002B\\ejercicios c\u002B\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T20:34:28.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
